@@ -1,0 +1,64 @@
+{
+  "books":[
+     {
+         "bno":"001",
+         "bname":"The God of Small Things",
+         "bauthor":"Arundhati Roy",
+         "bprice":"500"
+     },
+     {
+         "bno":"002",
+         "bname":"The Golden Gate",
+         "bauthor":"Vikram Seth",
+         "bprice":"700"
+     },
+     {
+         "bno":"003",
+         "bname":"Vikram Seth",
+         "bauthor":"Kuldeep Nayar",
+         "bprice":"600"
+     },
+     {
+         "bno":"004",
+         "bname":"The Man who killed Gandhi",
+         "bauthor":"Manohar Malgonkar",
+         "bprice":"400"
+     },
+     {
+         "bno":"005",
+         "bname":"One Indian Girl",
+         "bauthor":"Chetan Bhagat",
+         "bprice":"980"
+     },
+     {
+         "bno":"006",
+         "bname":"Naked Triangle",
+         "bauthor":"Balwant Gargi",
+         "bprice":"380"
+     },
+     {
+         "bno":"007",
+         "bname":"A Brush with Life",
+         "bauthor":"Satish Gujral",
+         "bprice":"600"
+     },
+     {
+         "bno":"008",
+         "bname":"A Passage to England",
+         "bauthor":"Nirad C. Chaudhuri",
+         "bprice":"1010"
+     },
+     {
+         "bno":"009",
+         "bname":"A River Sutra",
+         "bauthor":"Gita Mehta",
+         "bprice":"700"
+     },
+     {
+         "bno":"010",
+         "bname":"Bubble",
+         "bauthor":"Mulk Raj Anand",
+         "bprice":"750"
+     }
+  ]
+}
